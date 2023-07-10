@@ -8,3 +8,8 @@ You are given data.csv which is, once again, real estate data that you will use 
 • lot depth This is the depth of the lot in feet.
 • age of roof This is the age of the roof in years.
 • miles to school This is the number of miles to the nearest elementary school.
+
+
+The code will be run with below:
+python3 analysis.py data.csv
+python3 prediction.py data.csv
