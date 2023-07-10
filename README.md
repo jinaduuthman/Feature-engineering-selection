@@ -13,3 +13,5 @@ You are given data.csv which is, once again, real estate data that you will use 
 The code will be run with below:
 python3 analysis.py data.csv
 python3 prediction.py data.csv
+
+Try as above:
